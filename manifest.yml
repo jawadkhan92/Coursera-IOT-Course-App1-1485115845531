@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: Coursera-IOT-Course-App1
+  host: Coursera-IOT-Course-App1
+  disk_quota: 1024M
+  services:
+  - Coursera-IOT-Course-App1-cloudantNoSQLDB
+  - Coursera-IOT-Course-App1-iotf-service
