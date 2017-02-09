@@ -9,3 +9,7 @@ applications:
   services:
   - Coursera-IOT-Course-App1-cloudantNoSQLDB
   - Coursera-IOT-Course-App1-iotf-service
+<<<<<<< Upstream, based on e18ff5a8e5ecde2b61e26b4fbdbcfcf3c84d9583
+=======
+  - availability-monitoring-auto
+>>>>>>> 5da7e70 Add starter application package
